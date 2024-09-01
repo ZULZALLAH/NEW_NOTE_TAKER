@@ -60,7 +60,11 @@ public class Note {
 	}
 
 	public Note() {
+		
 		super();
+		System.out.println("khan");
+		System.out.println("Ahmad");
+		System.out.println("Khan");
 	}
 	
 	
