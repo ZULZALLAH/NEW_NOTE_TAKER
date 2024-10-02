@@ -27,7 +27,7 @@
 <h1 class="text-primary text-uppercase text-center mt-3">Start Taking Your Notes</h1>
 
 <div class="container text-center">
-<button class="btn btn-outline-primary text-center">Start Here</button>
+<button class="btn btn-outline-primary text-center">Start From Here</button>
 
 
 </div>
